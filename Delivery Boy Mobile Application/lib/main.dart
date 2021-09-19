@@ -3,7 +3,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import 'shared/design_components/custom_notification/custom_notification.dart';
 import 'shared/design_components/theme/dark_theme/dark_theme.dart';
 import 'shared/design_components/theme/light_theme/light_theme.dart';
